@@ -1,0 +1,2475 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(memcpy.o)
+                              build/default/production/_ext/1283518026/usb_device.o (memcpy)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o (_bootstrap_exception_handler)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o (_on_reset)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o (_on_bootstrap)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-nmi-handler.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o (_nmi_handler)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o (_general_exception_context)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_0)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_1)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_2)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_3)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_4)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_5)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_6)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_7)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_8)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_9)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_10)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_11)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_12)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_13)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_14)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_15)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_16)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_17)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_18)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_19)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_20)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_21)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_22)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_23)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_24)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_25)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_26)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_27)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_28)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_29)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_31)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_32)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_33)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_34)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_35)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_36)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_37)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_38)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_39)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_40)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_41)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_42)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o (__vector_dispatch_43)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o) (_general_exception_handler)
+c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+                              c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o) (_DefaultInterrupt)
+
+Allocating common symbols
+Common symbol       size              file
+
+BDT_ENTRY           0x8               build/default/production/_ext/2077795248/drv_spi_static.o
+APP_I2S_Handle      0x4               build/default/production/_ext/1360937237/app.o
+gDrvI2SClientObj    0x1c              build/default/production/_ext/1068317977/drv_i2s.o
+endPointTable       0x40              build/default/production/_ext/1688732426/system_init.o
+gDrvI2SBufferQObj   0x200             build/default/production/_ext/1068317977/drv_i2s.o
+APP_I2S_bHandle     0x4               build/default/production/_ext/1360937237/app.o
+gDrvI2SCommonDataObj
+                    0x2               build/default/production/_ext/1068317977/drv_i2s.o
+gUsbDeviceAudioInstance
+                    0x58              build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+sysObj              0xc               build/default/production/_ext/1688732426/system_init.o
+gDrvI2SObj          0x4c              build/default/production/_ext/1068317977/drv_i2s.o
+gUSBDeviceAudioIRP  0x48              build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+APP_I2S_buffer      0xc0              build/default/production/_ext/1360937237/app.o
+gUSBDeviceAudioIrpData
+                    0x18              build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+gDrvUSBGroup        0x90              build/default/production/_ext/172804285/drv_usb.o
+gUSBDeviceAudioCommonDataObj
+                    0x2               build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+sysDevconObj        0x8               build/default/production/_ext/35725571/sys_devcon.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text.DRV_I2S_Initializ 0x9d000780         0x10ac        4268   
+.text.DRV_I2S_Tasks     0x9d00182c          0xda8        3496   
+.text._DRV_USB_DEVICE_T 0x9d0025d4          0x7f4        2036   
+.text._USB_DEVICE_AUDIO 0x9d002dc8          0x53c        1340   
+.text._USB_DEVICE_AUDIO 0x9d003304          0x31c         796   
+.text._USB_DEVICE_Contr 0x9d003620          0x30c         780   
+.text.DRV_I2S_TasksErro 0x9d00392c          0x2f0         752   
+.text._USB_DEVICE_Proce 0x9d003c1c          0x2c4         708   
+.text._USB_DEVICE_AUDIO 0x9d003ee0          0x234         564   
+.text.DRV_USB_DEVICE_IR 0x9d004114          0x1ec         492   
+.text._USB_DEVICE_Proce 0x9d004300          0x1e0         480   
+.text._USB_DEVICE_Event 0x9d0044e0          0x1dc         476   
+.text.APP_Tasks         0x9d0046bc          0x1d4         468   
+.rodata                 0x9d004890          0x1cc         460  Read-only const 
+.text.APP_USBDeviceAudi 0x9d004a5c          0x1cc         460   
+.text.DRV_USB_DEVICE_En 0x9d004c28          0x1bc         444   
+.text.USB_DEVICE_Initia 0x9d004de4          0x1b4         436   
+.text.DRV_USB_Initializ 0x9d004f98          0x1b0         432   
+.text.USB_DEVICE_Tasks  0x9d005148          0x1b0         432   
+.text.DRV_USB_DEVICE_En 0x9d0052f8          0x190         400   
+.text.DRV_USB_DEVICE_En 0x9d005488          0x18c         396   
+.text._USB_DEVICE_AUDIO 0x9d005614          0x184         388   
+.text.DRV_I2S_BufferAdd 0x9d005798          0x174         372   
+.text._USB_DEVICE_Ep0Re 0x9d00590c          0x16c         364   
+.text                   0x9d005a78          0x168         360  App's exec code 
+.text.DRV_I2S_Open      0x9d005be0          0x138         312   
+.text._IntHandlerUSBIns 0x9d005d18          0x130         304   
+.text.DRV_USB_DEVICE_IR 0x9d005e48          0x11c         284   
+.text._USB_DEVICE_AUDIO 0x9d005f64          0x10c         268   
+.text._USB_DEVICE_Confi 0x9d006070          0x104         260   
+.text._USB_DEVICE_Forwa 0x9d006174           0xf0         240   
+.text._USB_DEVICE_Proce 0x9d006264           0xe8         232   
+.text.SYS_PORTS_Initial 0x9d00634c           0xdc         220   
+.text.general_exception 0x9d006428           0xdc         220   
+.text._DRV_USB_DEVICE_E 0x9d006504           0xd8         216   
+.text.SYS_Initialize    0x9d0065dc           0xc0         192   
+.text.DRV_USB_DEVICE_En 0x9d00669c           0xbc         188   
+.text._USB_DEVICE_AUDIO 0x9d006758           0xb8         184   
+.text.DRV_USB_Tasks_ISR 0x9d006810           0xac         172   
+.text._USB_DEVICE_DeIni 0x9d0068bc           0xa8         168   
+.text.APP_USBDeviceEven 0x9d006964           0xa0         160   
+.dinit                  0x9d006a04           0xa0         160   
+.text._USB_DEVICE_GetFu 0x9d006aa4           0x88         136   
+.text.DRV_USB_DEVICE_At 0x9d006b2c           0x84         132   
+.text.USB_DEVICE_Contro 0x9d006bb0           0x84         132   
+.text._USB_DEVICE_FindE 0x9d006c34           0x84         132   
+.text.USB_DEVICE_Contro 0x9d006cb8           0x80         128   
+.text.DRV_USB_ClientEve 0x9d006d38           0x78         120   
+.text._USB_DEVICE_Ep0Tr 0x9d006db0           0x78         120   
+.text.SYS_DEVCON_System 0x9d006e28           0x74         116   
+.text.DRV_USB_DEVICE_De 0x9d006e9c           0x70         112   
+.text.SYS_CLK_Initializ 0x9d006f0c           0x6c         108   
+.text.SYS_DEVCON_Perfor 0x9d006f78           0x6c         108   
+.text.USB_DEVICE_Tasks_ 0x9d006fe4           0x6c         108   
+.text._DRV_USB_DEVICE_I 0x9d007050           0x68         104   
+.text.USB_DEVICE_AUDIO_ 0x9d0070b8           0x64         100   
+.text.DRV_USB_Open      0x9d00711c           0x5c          92   
+.text.USB_DEVICE_Open   0x9d007178           0x58          88   
+.text.SYS_DEVCON_System 0x9d0071d0           0x54          84   
+.text.USB_DEVICE_EventH 0x9d007224           0x54          84   
+.text.main_entry        0x9d007278           0x4c          76   
+.text.SYS_Tasks         0x9d0072c4           0x4c          76   
+.text._bootstrap_except 0x9d007310           0x48          72   
+.text._general_exceptio 0x9d007358           0x48          72   
+.text.DRV_USB_DEVICE_En 0x9d0073a0           0x44          68   
+.text                   0x9d0073e4           0x44          68  App's exec code 
+.text.SYS_INT_SourceDis 0x9d007428           0x40          64   
+.text.USB_DEVICE_Contro 0x9d007468           0x40          64   
+.text._DRV_USB_DEVICE_I 0x9d0074a8           0x3c          60   
+.text.USB_DEVICE_AUDIO_ 0x9d0074e4           0x3c          60   
+.text.DRV_USB_DEVICE_Ad 0x9d007520           0x38          56   
+.text.SYS_PORTS_PinTogg 0x9d007558           0x38          56   
+.text.SYS_PORTS_PinClea 0x9d007590           0x38          56   
+.vector_default         0x9d0075c8           0x38          56   
+.text.APP_InitCodec     0x9d007600           0x24          36   
+.text._USB_DEVICE_AUDIO 0x9d007624           0x24          36   
+.text.main              0x9d007648           0x20          32   
+.text.SYS_DEVCON_JTAGDi 0x9d007668           0x1c          28   
+.text._USB_DEVICE_AUDIO 0x9d007684           0x1c          28   
+.text                   0x9d0076a0           0x18          24  App's exec code 
+.text.SYS_DEVCON_Initia 0x9d0076b8           0x14          20   
+.text.SYS_INT_Initializ 0x9d0076cc           0x14          20   
+.rodata                 0x9d0076e0           0x14          20  Read-only const 
+.text.DRV_USB_DEVICE_Cu 0x9d0076f4           0x10          16   
+.text.SYS_CLK_SystemFre 0x9d007704            0xc          12   
+.text.APP_Initialize    0x9d007710            0xc          12   
+.text.DRV_USB_Tasks     0x9d00771c            0x8           8   
+.text.SYS_DEVCON_Tasks  0x9d007724            0x8           8   
+.text._on_reset         0x9d00772c            0x8           8   
+.text._on_bootstrap     0x9d007734            0x8           8   
+      Total kseg0_program_mem used  :      0x6fbc       28604  92.7% of 0x7880
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+         Total kseg0_boot_mem used  :           0           0  
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9d000180           0x10          16  General-Exception 
+.vector_0               0x9d000200            0x8           8  Interrupt Vector 0 
+.vector_1               0x9d000220            0x8           8  Interrupt Vector 1 
+.vector_2               0x9d000240            0x8           8  Interrupt Vector 2 
+.vector_3               0x9d000260            0x8           8  Interrupt Vector 3 
+.vector_4               0x9d000280            0x8           8  Interrupt Vector 4 
+.vector_5               0x9d0002a0            0x8           8  Interrupt Vector 5 
+.vector_6               0x9d0002c0            0x8           8  Interrupt Vector 6 
+.vector_7               0x9d0002e0            0x8           8  Interrupt Vector 7 
+.vector_8               0x9d000300            0x8           8  Interrupt Vector 8 
+.vector_9               0x9d000320            0x8           8  Interrupt Vector 9 
+.vector_10              0x9d000340            0x8           8  Interrupt Vector 10 
+.vector_11              0x9d000360            0x8           8  Interrupt Vector 11 
+.vector_12              0x9d000380            0x8           8  Interrupt Vector 12 
+.vector_13              0x9d0003a0            0x8           8  Interrupt Vector 13 
+.vector_14              0x9d0003c0            0x8           8  Interrupt Vector 14 
+.vector_15              0x9d0003e0            0x8           8  Interrupt Vector 15 
+.vector_16              0x9d000400            0x8           8  Interrupt Vector 16 
+.vector_17              0x9d000420            0x8           8  Interrupt Vector 17 
+.vector_18              0x9d000440            0x8           8  Interrupt Vector 18 
+.vector_19              0x9d000460            0x8           8  Interrupt Vector 19 
+.vector_20              0x9d000480            0x8           8  Interrupt Vector 20 
+.vector_21              0x9d0004a0            0x8           8  Interrupt Vector 21 
+.vector_22              0x9d0004c0            0x8           8  Interrupt Vector 22 
+.vector_23              0x9d0004e0            0x8           8  Interrupt Vector 23 
+.vector_24              0x9d000500            0x8           8  Interrupt Vector 24 
+.vector_25              0x9d000520            0x8           8  Interrupt Vector 25 
+.vector_26              0x9d000540            0x8           8  Interrupt Vector 26 
+.vector_27              0x9d000560            0x8           8  Interrupt Vector 27 
+.vector_28              0x9d000580            0x8           8  Interrupt Vector 28 
+.vector_29              0x9d0005a0            0x8           8  Interrupt Vector 29 
+.vector_30              0x9d0005c0            0x8           8  Interrupt Vector 30 
+.vector_31              0x9d0005e0            0x8           8  Interrupt Vector 31 
+.vector_32              0x9d000600            0x8           8  Interrupt Vector 32 
+.vector_33              0x9d000620            0x8           8  Interrupt Vector 33 
+.vector_34              0x9d000640            0x8           8  Interrupt Vector 34 
+.vector_35              0x9d000660            0x8           8  Interrupt Vector 35 
+.vector_36              0x9d000680            0x8           8  Interrupt Vector 36 
+.vector_37              0x9d0006a0            0x8           8  Interrupt Vector 37 
+.vector_38              0x9d0006c0            0x8           8  Interrupt Vector 38 
+.vector_39              0x9d0006e0            0x8           8  Interrupt Vector 39 
+.vector_40              0x9d000700            0x8           8  Interrupt Vector 40 
+.vector_41              0x9d000720            0x8           8  Interrupt Vector 41 
+.vector_42              0x9d000740            0x8           8  Interrupt Vector 42 
+.vector_43              0x9d000760            0x8           8  Interrupt Vector 43 
+          Total exception_mem used  :       0x170         368  19.2% of 0x780
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0xbfc00000          0x1cc         460  Reset handler 
+.bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
+         Total kseg1_boot_mem used  :       0x1dc         476  40.8% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x7308       29448  86.8% of 0x8490
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.sbss                   0xa0000000           0x28          40  Small uninit data 
+.bss                    0xa0000028           0xe8         232  Uninitialized data 
+.data                   0xa0000110           0x24          36  Initialized data 
+.bss                    0xa0000200          0x4bc        1212  Uninitialized data 
+         Total kseg1_data_mem used  :       0x5f0        1520  18.6% of 0x2000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0x5f0        1520  18.6% of 0x2000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0xa00006c0              0           0  Reserved for heap 
+stack                   0xa00006d8         0x1918        6424  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+ .text          0x00000000        0x0 build/default/production/_ext/2077795248/drv_spi_static.o
+ .data          0x00000000        0x0 build/default/production/_ext/2077795248/drv_spi_static.o
+ .bss           0x00000000        0x0 build/default/production/_ext/2077795248/drv_spi_static.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/2077795248/drv_spi_static.o
+ .text          0x00000000        0x0 build/default/production/_ext/639803181/sys_clk_static.o
+ .data          0x00000000        0x0 build/default/production/_ext/639803181/sys_clk_static.o
+ .bss           0x00000000        0x0 build/default/production/_ext/639803181/sys_clk_static.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/639803181/sys_clk_static.o
+ .text.SYS_CLK_PeripheralFrequencyGet
+                0x00000000        0xc build/default/production/_ext/639803181/sys_clk_static.o
+ .text.SYS_CLK_ReferenceClockFrequencyGet
+                0x00000000        0x8 build/default/production/_ext/639803181/sys_clk_static.o
+ .text          0x00000000        0x0 build/default/production/_ext/822048611/sys_ports_static.o
+ .data          0x00000000        0x0 build/default/production/_ext/822048611/sys_ports_static.o
+ .bss           0x00000000        0x0 build/default/production/_ext/822048611/sys_ports_static.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/822048611/sys_ports_static.o
+ .text          0x00000000        0x0 build/default/production/_ext/1688732426/system_init.o
+ .data          0x00000000        0x0 build/default/production/_ext/1688732426/system_init.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1688732426/system_init.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1688732426/system_init.o
+ .text          0x00000000        0x0 build/default/production/_ext/1688732426/system_interrupt.o
+ .data          0x00000000        0x0 build/default/production/_ext/1688732426/system_interrupt.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1688732426/system_interrupt.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1688732426/system_interrupt.o
+ .text          0x00000000        0x0 build/default/production/_ext/1688732426/system_tasks.o
+ .data          0x00000000        0x0 build/default/production/_ext/1688732426/system_tasks.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1688732426/system_tasks.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1688732426/system_tasks.o
+ .text          0x00000000        0x0 build/default/production/_ext/1360937237/app.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1360937237/app.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1360937237/app.o
+ .text          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .data          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1360937237/main.o
+ .text          0x00000000        0x0 build/default/production/_ext/1068317977/drv_i2s.o
+ .data          0x00000000        0x0 build/default/production/_ext/1068317977/drv_i2s.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1068317977/drv_i2s.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_Deinitialize
+                0x00000000       0x54 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_Status
+                0x00000000       0x20 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_Close
+                0x00000000       0xf4 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_BufferAddRead
+                0x00000000      0x178 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_BufferAddWriteRead
+                0x00000000      0x190 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_BufferEventHandlerSet
+                0x00000000       0x3c build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_BufferProcessedSizeGet
+                0x00000000       0x34 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_ErrorGet
+                0x00000000       0x38 build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_BaudSet
+                0x00000000       0x9c build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_TransmitErrorIgnore
+                0x00000000      0x10c build/default/production/_ext/1068317977/drv_i2s.o
+ .text.DRV_I2S_ReceiveErrorIgnore
+                0x00000000      0x10c build/default/production/_ext/1068317977/drv_i2s.o
+ .text          0x00000000        0x0 build/default/production/_ext/172804285/drv_usb.o
+ .data          0x00000000        0x0 build/default/production/_ext/172804285/drv_usb.o
+ .bss           0x00000000        0x0 build/default/production/_ext/172804285/drv_usb.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_Deinitialize
+                0x00000000       0x90 build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_Status
+                0x00000000       0x1c build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_HOST_Resume
+                0x00000000       0x54 build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_HOST_Suspend
+                0x00000000       0x54 build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_Close
+                0x00000000       0x28 build/default/production/_ext/172804285/drv_usb.o
+ .text.DRV_USB_Tasks_ISR_USBDMA
+                0x00000000        0x8 build/default/production/_ext/172804285/drv_usb.o
+ .text          0x00000000        0x0 build/default/production/_ext/172804285/drv_usb_device.o
+ .data          0x00000000        0x0 build/default/production/_ext/172804285/drv_usb_device.o
+ .bss           0x00000000        0x0 build/default/production/_ext/172804285/drv_usb_device.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/172804285/drv_usb_device.o
+ .text.DRV_USB_DEVICE_RemoteWakeupStart
+                0x00000000       0x28 build/default/production/_ext/172804285/drv_usb_device.o
+ .text.DRV_USB_DEVICE_RemoteWakeupStop
+                0x00000000       0x28 build/default/production/_ext/172804285/drv_usb_device.o
+ .text._DRV_USB_DEVICE_EndpointObjectEnable
+                0x00000000       0x24 build/default/production/_ext/172804285/drv_usb_device.o
+ .text.DRV_USB_DEVICE_EndpointIsEnabled
+                0x00000000       0x44 build/default/production/_ext/172804285/drv_usb_device.o
+ .text.DRV_USB_DEVICE_SOFNumberGet
+                0x00000000       0x44 build/default/production/_ext/172804285/drv_usb_device.o
+ .text          0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon.o
+ .data          0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon.o
+ .bss           0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_Reinitialize
+                0x00000000       0x10 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_Deinitialize
+                0x00000000        0x8 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_Status
+                0x00000000        0x8 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_JTAGEnable
+                0x00000000       0x18 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_TraceEnable
+                0x00000000        0x8 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_TraceDisable
+                0x00000000        0x8 build/default/production/_ext/35725571/sys_devcon.o
+ .text.SYS_DEVCON_PowerModeEnter
+                0x00000000       0x54 build/default/production/_ext/35725571/sys_devcon.o
+ .text          0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .data          0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .bss           0x00000000        0x0 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .text          0x00000000        0x0 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .data          0x00000000        0x0 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .text.SYS_INT_Disable
+                0x00000000       0x14 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .text.SYS_INT_ExternalInterruptTriggerSet
+                0x00000000       0x2c build/default/production/_ext/1707904131/sys_int_pic32.o
+ .text          0x00000000        0x0 build/default/production/_ext/1502646426/sys_ports.o
+ .data          0x00000000        0x0 build/default/production/_ext/1502646426/sys_ports.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1502646426/sys_ports.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_Read
+                0x00000000       0x30 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_Write
+                0x00000000       0x2c build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_Set
+                0x00000000       0x38 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_Clear
+                0x00000000       0x34 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_DirectionSelect
+                0x00000000       0x6c build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_DirectionGet
+                0x00000000       0x38 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_Toggle
+                0x00000000       0x34 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_OpenDrainEnable
+                0x00000000       0x34 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_OpenDrainDisable
+                0x00000000       0x34 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationGlobalEnable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_GlobalChangeNotificationDisable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationEnable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationDisable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationInIdleModeEnable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationInIdleModeDisable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationPullUpEnable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_ChangeNotificationPullUpDisable
+                0x00000000        0x8 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinModeSelect
+                0x00000000       0x60 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinWrite
+                0x00000000       0x50 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinRead
+                0x00000000       0x44 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinSet
+                0x00000000       0x38 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinDirectionSelect
+                0x00000000       0x78 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinOpenDrainEnable
+                0x00000000       0x38 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_PinOpenDrainDisable
+                0x00000000       0x38 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_RemapInput
+                0x00000000       0x60 build/default/production/_ext/1502646426/sys_ports.o
+ .text.SYS_PORTS_RemapOutput
+                0x00000000       0x60 build/default/production/_ext/1502646426/sys_ports.o
+ .text          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device.o
+ .data          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_Status
+                0x00000000       0x3c build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_IsSuspended
+                0x00000000       0x24 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_StateGet
+                0x00000000       0x24 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_Deinitialize
+                0x00000000       0x38 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_Close
+                0x00000000       0x34 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_ClientStatusGet
+                0x00000000       0x34 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_Tasks_ISR_USBDMA
+                0x00000000       0x6c build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_ActiveConfigurationGet
+                0x00000000       0x34 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_ActiveSpeedGet
+                0x00000000       0x38 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_PowerStateSet
+                0x00000000       0x38 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_RemoteWakeupStatusGet
+                0x00000000       0x34 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_RemoteWakeupStop
+                0x00000000       0x3c build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_RemoteWakeupStart
+                0x00000000       0x3c build/default/production/_ext/1283518026/usb_device.o
+ .text._USB_DEVICE_RedirectControlXfrToClient
+                0x00000000       0x4c build/default/production/_ext/1283518026/usb_device.o
+ .text._USB_DEVICE_ClientHandleValidate
+                0x00000000       0x28 build/default/production/_ext/1283518026/usb_device.o
+ .text._USB_DEVICE_EndpointMutexCreateFunction
+                0x00000000       0x10 build/default/production/_ext/1283518026/usb_device.o
+ .text._USB_DEVICE_EndpointMutexDeleteFunction
+                0x00000000        0x8 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_VersionGet
+                0x00000000        0xc build/default/production/_ext/1283518026/usb_device.o
+ .rodata        0x00000000        0x8 build/default/production/_ext/1283518026/usb_device.o
+ .text.USB_DEVICE_VersionStrGet
+                0x00000000        0xc build/default/production/_ext/1283518026/usb_device.o
+ .text          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .data          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .text          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .data          0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .text.USB_DEVICE_AUDIO_Write
+                0x00000000       0x68 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+ .discard       0x00000000       0xb0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\pic32_software_reset.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\pic32_software_reset.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\pic32_software_reset.o
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\processor.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\processor.o
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\processor.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\processor.o
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(memcpy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-nmi-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-nmi-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-nmi-handler.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+exception_mem    0x9d000000         0x00000780
+kseg0_program_mem 0x9d000780         0x00007880         xr
+debug_exec_mem   0x9fc00490         0x00000760
+kseg0_boot_mem   0x9fc00490         0x00000000
+kseg1_boot_mem   0xbfc00000         0x00000490
+config3          0xbfc00bf0         0x00000004
+config2          0xbfc00bf4         0x00000004
+config1          0xbfc00bf8         0x00000004
+config0          0xbfc00bfc         0x00000004
+kseg1_data_mem   0xa0000000         0x00002000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc00bf0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+LOAD build/default/production/_ext/2077795248/drv_spi_static.o
+LOAD build/default/production/_ext/639803181/sys_clk_static.o
+LOAD build/default/production/_ext/822048611/sys_ports_static.o
+LOAD build/default/production/_ext/1688732426/system_init.o
+LOAD build/default/production/_ext/1688732426/system_interrupt.o
+LOAD build/default/production/_ext/1688732426/system_tasks.o
+LOAD build/default/production/_ext/1360937237/app.o
+LOAD build/default/production/_ext/1360937237/main.o
+LOAD build/default/production/_ext/1068317977/drv_i2s.o
+LOAD build/default/production/_ext/172804285/drv_usb.o
+LOAD build/default/production/_ext/172804285/drv_usb_device.o
+LOAD build/default/production/_ext/35725571/sys_devcon.o
+LOAD build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+LOAD build/default/production/_ext/1707904131/sys_int_pic32.o
+LOAD build/default/production/_ext/1502646426/sys_ports.o
+LOAD build/default/production/_ext/1283518026/usb_device.o
+LOAD build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+LOAD build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+LOAD ..\..\..\..\..\..\microchip\harmony\v1_03_01\bin\framework\peripheral\PIC32MX220F032B_peripherals.a
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000000                _min_heap_size = 0x0
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\default_isr_vectors.o
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\pic32_software_reset.o
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B\processor.o
+START GROUP
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libmchp_peripheral.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libmchp_peripheral_32MX220F032B.a
+END GROUP
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9d000000                _ebase_address = 0x9d000000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0x9fc00490                _DBG_CODE_ADDR = 0x9fc00490
+                0x00000760                _DBG_CODE_SIZE = 0x760
+                0x9d000180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC00BF0
+                0xbfc00bf0        0x4
+ *(.config_BFC00BF0)
+ .config_BFC00BF0
+                0xbfc00bf0        0x4 build/default/production/_ext/1688732426/system_init.o
+
+.config_BFC00BF4
+                0xbfc00bf4        0x4
+ *(.config_BFC00BF4)
+ .config_BFC00BF4
+                0xbfc00bf4        0x4 build/default/production/_ext/1688732426/system_init.o
+
+.config_BFC00BF8
+                0xbfc00bf8        0x4
+ *(.config_BFC00BF8)
+ .config_BFC00BF8
+                0xbfc00bf8        0x4 build/default/production/_ext/1688732426/system_init.o
+
+.config_BFC00BFC
+                0xbfc00bfc        0x4
+ *(.config_BFC00BFC)
+ .config_BFC00BFC
+                0xbfc00bfc        0x4 build/default/production/_ext/1688732426/system_init.o
+                0xbfc02000                PROVIDE (_DBG_CODE_ADDR, 0xbfc02000)
+                0x00000ff0                PROVIDE (_DBG_CODE_SIZE, 0xff0)
+
+.reset          0xbfc00000      0x1cc
+ *(.reset)
+ .reset         0xbfc00000        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+                0xbfc00000                _reset
+ *(.reset.startup)
+ .reset.startup
+                0xbfc00008      0x1c4 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+
+.dbg_excpt      0xbfc00480        0x0
+                0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0x9fc00490        0x0
+                0x9fc00490                . = (. + DEFINED (_DEBUGGER)?_DBG_CODE_SIZE:0x0)
+
+.app_excpt      0x9d000180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9d000180       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+
+.vector_0       0x9d000200        0x8
+ *(.vector_0)
+ .vector_0      0x9d000200        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector0.o)
+                0x9d000200                __vector_dispatch_0
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9d000220        0x8
+ *(.vector_1)
+ .vector_1      0x9d000220        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector1.o)
+                0x9d000220                __vector_dispatch_1
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9d000240        0x8
+ *(.vector_2)
+ .vector_2      0x9d000240        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector2.o)
+                0x9d000240                __vector_dispatch_2
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9d000260        0x8
+ *(.vector_3)
+ .vector_3      0x9d000260        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector3.o)
+                0x9d000260                __vector_dispatch_3
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9d000280        0x8
+ *(.vector_4)
+ .vector_4      0x9d000280        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector4.o)
+                0x9d000280                __vector_dispatch_4
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9d0002a0        0x8
+ *(.vector_5)
+ .vector_5      0x9d0002a0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector5.o)
+                0x9d0002a0                __vector_dispatch_5
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9d0002c0        0x8
+ *(.vector_6)
+ .vector_6      0x9d0002c0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector6.o)
+                0x9d0002c0                __vector_dispatch_6
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9d0002e0        0x8
+ *(.vector_7)
+ .vector_7      0x9d0002e0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector7.o)
+                0x9d0002e0                __vector_dispatch_7
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9d000300        0x8
+ *(.vector_8)
+ .vector_8      0x9d000300        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector8.o)
+                0x9d000300                __vector_dispatch_8
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9d000320        0x8
+ *(.vector_9)
+ .vector_9      0x9d000320        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector9.o)
+                0x9d000320                __vector_dispatch_9
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9d000340        0x8
+ *(.vector_10)
+ .vector_10     0x9d000340        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector10.o)
+                0x9d000340                __vector_dispatch_10
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9d000360        0x8
+ *(.vector_11)
+ .vector_11     0x9d000360        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector11.o)
+                0x9d000360                __vector_dispatch_11
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9d000380        0x8
+ *(.vector_12)
+ .vector_12     0x9d000380        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector12.o)
+                0x9d000380                __vector_dispatch_12
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9d0003a0        0x8
+ *(.vector_13)
+ .vector_13     0x9d0003a0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector13.o)
+                0x9d0003a0                __vector_dispatch_13
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9d0003c0        0x8
+ *(.vector_14)
+ .vector_14     0x9d0003c0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector14.o)
+                0x9d0003c0                __vector_dispatch_14
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9d0003e0        0x8
+ *(.vector_15)
+ .vector_15     0x9d0003e0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector15.o)
+                0x9d0003e0                __vector_dispatch_15
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9d000400        0x8
+ *(.vector_16)
+ .vector_16     0x9d000400        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector16.o)
+                0x9d000400                __vector_dispatch_16
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9d000420        0x8
+ *(.vector_17)
+ .vector_17     0x9d000420        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector17.o)
+                0x9d000420                __vector_dispatch_17
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9d000440        0x8
+ *(.vector_18)
+ .vector_18     0x9d000440        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector18.o)
+                0x9d000440                __vector_dispatch_18
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9d000460        0x8
+ *(.vector_19)
+ .vector_19     0x9d000460        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector19.o)
+                0x9d000460                __vector_dispatch_19
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9d000480        0x8
+ *(.vector_20)
+ .vector_20     0x9d000480        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector20.o)
+                0x9d000480                __vector_dispatch_20
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9d0004a0        0x8
+ *(.vector_21)
+ .vector_21     0x9d0004a0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector21.o)
+                0x9d0004a0                __vector_dispatch_21
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9d0004c0        0x8
+ *(.vector_22)
+ .vector_22     0x9d0004c0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector22.o)
+                0x9d0004c0                __vector_dispatch_22
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9d0004e0        0x8
+ *(.vector_23)
+ .vector_23     0x9d0004e0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector23.o)
+                0x9d0004e0                __vector_dispatch_23
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9d000500        0x8
+ *(.vector_24)
+ .vector_24     0x9d000500        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector24.o)
+                0x9d000500                __vector_dispatch_24
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9d000520        0x8
+ *(.vector_25)
+ .vector_25     0x9d000520        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector25.o)
+                0x9d000520                __vector_dispatch_25
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9d000540        0x8
+ *(.vector_26)
+ .vector_26     0x9d000540        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector26.o)
+                0x9d000540                __vector_dispatch_26
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9d000560        0x8
+ *(.vector_27)
+ .vector_27     0x9d000560        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector27.o)
+                0x9d000560                __vector_dispatch_27
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9d000580        0x8
+ *(.vector_28)
+ .vector_28     0x9d000580        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector28.o)
+                0x9d000580                __vector_dispatch_28
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9d0005a0        0x8
+ *(.vector_29)
+ .vector_29     0x9d0005a0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector29.o)
+                0x9d0005a0                __vector_dispatch_29
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9d0005c0        0x8
+ *(.vector_30)
+ .vector_30     0x9d0005c0        0x8 build/default/production/_ext/1688732426/system_interrupt.o
+                0x9d0005c0                __vector_dispatch_30
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9d0005e0        0x8
+ *(.vector_31)
+ .vector_31     0x9d0005e0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector31.o)
+                0x9d0005e0                __vector_dispatch_31
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9d000600        0x8
+ *(.vector_32)
+ .vector_32     0x9d000600        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector32.o)
+                0x9d000600                __vector_dispatch_32
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9d000620        0x8
+ *(.vector_33)
+ .vector_33     0x9d000620        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector33.o)
+                0x9d000620                __vector_dispatch_33
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9d000640        0x8
+ *(.vector_34)
+ .vector_34     0x9d000640        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector34.o)
+                0x9d000640                __vector_dispatch_34
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9d000660        0x8
+ *(.vector_35)
+ .vector_35     0x9d000660        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector35.o)
+                0x9d000660                __vector_dispatch_35
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9d000680        0x8
+ *(.vector_36)
+ .vector_36     0x9d000680        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector36.o)
+                0x9d000680                __vector_dispatch_36
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9d0006a0        0x8
+ *(.vector_37)
+ .vector_37     0x9d0006a0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector37.o)
+                0x9d0006a0                __vector_dispatch_37
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9d0006c0        0x8
+ *(.vector_38)
+ .vector_38     0x9d0006c0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector38.o)
+                0x9d0006c0                __vector_dispatch_38
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9d0006e0        0x8
+ *(.vector_39)
+ .vector_39     0x9d0006e0        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector39.o)
+                0x9d0006e0                __vector_dispatch_39
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9d000700        0x8
+ *(.vector_40)
+ .vector_40     0x9d000700        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector40.o)
+                0x9d000700                __vector_dispatch_40
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9d000720        0x8
+ *(.vector_41)
+ .vector_41     0x9d000720        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector41.o)
+                0x9d000720                __vector_dispatch_41
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9d000740        0x8
+ *(.vector_42)
+ .vector_42     0x9d000740        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector42.o)
+                0x9d000740                __vector_dispatch_42
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9d000760        0x8
+ *(.vector_43)
+ .vector_43     0x9d000760        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(vector43.o)
+                0x9d000760                __vector_dispatch_43
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9d000780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9d0007a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9d0007c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9d0007e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9d000800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9d000820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9d000840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9d000860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9d000880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9d0008a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9d0008c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9d0008e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9d000900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9d000920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9d000940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9d000960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9d000980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9d0009a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9d0009c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9d0009e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup
+ *(.startup)
+
+.text           0x9d000780        0x0
+ *(.stub .gnu.linkonce.t.*)
+ *(.text.*personality*)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+ *(.gnu.warning)
+                0x9d000780                . = ALIGN (0x4)
+
+.init           0x9d000780        0x0
+ *crti.o(.init)
+ *crtbegin.o(.init)
+ *(EXCLUDE_FILE(*crtn.o *crtend?.o *crtend.o) .init)
+ *crtend.o(.init)
+ *crtn.o(.init)
+                0x9d000780                . = ALIGN (0x4)
+
+.fini           0x9d000780        0x0
+ *(.fini)
+                0x9d000780                . = ALIGN (0x4)
+
+.preinit_array  0x9d000780        0x0
+                0x9d000780                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x9d000780                PROVIDE (__preinit_array_end, .)
+                0x9d000780                . = ALIGN (0x4)
+
+.init_array     0x9d000780        0x0
+                0x9d000780                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x9d000780                PROVIDE (__init_array_end, .)
+                0x9d000780                . = ALIGN (0x4)
+
+.fini_array     0x9d000780        0x0
+                0x9d000780                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x9d000780                PROVIDE (__fini_array_end, .)
+                0x9d000780                . = ALIGN (0x4)
+
+.ctors          0x9d000780        0x0
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x9d000780                . = ALIGN (0x4)
+
+.dtors          0x9d000780        0x0
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x9d000780                . = ALIGN (0x4)
+
+.rodata         0x9d000780        0x0
+ *(.gnu.linkonce.r.*)
+ *(.rodata1)
+                0x9d000780                . = ALIGN (0x4)
+
+.sdata2         0x9fc00490        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9fc00490                . = ALIGN (0x4)
+
+.sbss2          0x9fc00490        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9fc00490                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+                0x9fc00490                . = ALIGN (0x4)
+
+.eh_frame
+ *(.eh_frame)
+                0x9fc00490                . = ALIGN (0x4)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x9fc00490                . = ALIGN (0x4)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.jcr            0xa0000000        0x0
+ *(.jcr)
+                0xa0000000                . = ALIGN (0x4)
+
+.eh_frame
+ *(.eh_frame)
+                0xa0000000                . = ALIGN (0x4)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0xa0000000                . = ALIGN (0x4)
+
+.persist        0xa0000000        0x0
+                0xa0000000                _persist_begin = .
+ *(.persist .persist.*)
+ *(.pbss .pbss.*)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _persist_end = .
+
+.data           0xa0000000        0x0
+ *(.gnu.linkonce.d.*)
+ *(.data1)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                . = .
+                0xa0007ff0                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got            0xa0000000        0x0
+ *(.got.plt)
+ *(.got)
+                0xa0000000                . = ALIGN (0x4)
+
+.sdata          0xa0000000        0x0
+                0xa0000000                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _data_end = .
+                0xa0000000                _bss_begin = .
+
+.sbss           0xa0000000       0x28
+                0xa0000000                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa0000000        0x2 build/default/production/_ext/1068317977/drv_i2s.o
+ *fill*         0xa0000002        0x2 
+ .sbss          0xa0000004        0x4 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0xa0000004                gUSBDeviceAudioUniqueBufferID
+ *(.scommon)
+ .scommon       0xa0000008        0x8 build/default/production/_ext/2077795248/drv_spi_static.o
+                0xa0000008                BDT_ENTRY
+ .scommon       0xa0000010        0x0 build/default/production/_ext/639803181/sys_clk_static.o
+ .scommon       0xa0000010        0x0 build/default/production/_ext/1688732426/system_init.o
+ .scommon       0xa0000010        0x0 build/default/production/_ext/1688732426/system_interrupt.o
+ .scommon       0xa0000010        0x0 build/default/production/_ext/1688732426/system_tasks.o
+ .scommon       0xa0000010        0x8 build/default/production/_ext/1360937237/app.o
+                0xa0000010                APP_I2S_Handle
+                0xa0000014                APP_I2S_bHandle
+ .scommon       0xa0000018        0x2 build/default/production/_ext/1068317977/drv_i2s.o
+                0xa0000018                gDrvI2SCommonDataObj
+ .scommon       0xa000001a        0x0 build/default/production/_ext/172804285/drv_usb.o
+ .scommon       0xa000001a        0x0 build/default/production/_ext/172804285/drv_usb_device.o
+ *fill*         0xa000001a        0x2 
+ .scommon       0xa000001c        0x8 build/default/production/_ext/35725571/sys_devcon.o
+                0xa000001c                sysDevconObj
+ .scommon       0xa0000024        0x0 build/default/production/_ext/1283518026/usb_device.o
+ .scommon       0xa0000024        0x0 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .scommon       0xa0000024        0x2 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0xa0000024                gUSBDeviceAudioCommonDataObj
+                0xa0000026                _sbss_end = .
+                0xa0000028                . = ALIGN (0x4)
+ *fill*         0xa0000026        0x2 
+
+.bss            0xa0000200      0x4bc
+ *(.dynbss)
+ *(COMMON)
+ COMMON         0xa0000200       0x4c build/default/production/_ext/1688732426/system_init.o
+                0xa0000200                endPointTable
+                0xa0000240                sysObj
+ COMMON         0xa000024c       0xc0 build/default/production/_ext/1360937237/app.o
+                0xa000024c                APP_I2S_buffer
+ COMMON         0xa000030c      0x268 build/default/production/_ext/1068317977/drv_i2s.o
+                0xa000030c                gDrvI2SClientObj
+                0xa0000328                gDrvI2SBufferQObj
+                0xa0000528                gDrvI2SObj
+ COMMON         0xa0000574       0x90 build/default/production/_ext/172804285/drv_usb.o
+                0xa0000574                gDrvUSBGroup
+ COMMON         0xa0000604       0xb8 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0xa0000604                gUsbDeviceAudioInstance
+                0xa000065c                gUSBDeviceAudioIRP
+                0xa00006a4                gUSBDeviceAudioIrpData
+                0xa00006bc                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0xa00006bc                . = ALIGN (0x4)
+                0xa00006bc                _end = .
+                0xa00006bc                _bss_end = .
+                0x00002000                _bmxdudba_address = 0x2000
+                0x00002000                _bmxdupba_address = 0x2000
+
+/DISCARD/
+ *(.pdr)
+ *(.rel.dyn)
+ *(.note.GNU-stack)
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.discard)
+
+.gptab.sdata
+ *(.gptab.data)
+ *(.gptab.sdata)
+
+.gptab.sbss
+ *(.gptab.bss)
+ *(.gptab.sbss)
+
+.mdebug.abi32   0xa00006bc        0x0
+ *(.mdebug.abi32)
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/2077795248/drv_spi_static.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/639803181/sys_clk_static.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/822048611/sys_ports_static.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1688732426/system_init.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1688732426/system_interrupt.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1688732426/system_tasks.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1360937237/app.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1360937237/main.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1068317977/drv_i2s.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/172804285/drv_usb.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/172804285/drv_usb_device.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/35725571/sys_devcon.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1502646426/sys_ports.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1283518026/usb_device.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .mdebug.abi32  0xa00006bc        0x0 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .mdebug.abi32  0xa00006bc        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .mdebug.abi32  0xa00006bc        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .mdebug.abi32  0xa00006bc        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .mdebug.abi32  0xa00006bc        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .mdebug.abi32  0xa00006bc        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.mdebug.abiN32
+ *(.mdebug.abiN32)
+
+.mdebug.abi64
+ *(.mdebug.abi64)
+
+.mdebug.abiO64
+ *(.mdebug.abiO64)
+
+.mdebug.eabi32
+ *(.mdebug.eabi32)
+
+.mdebug.eabi64
+ *(.mdebug.eabi64)
+
+.gcc_compiled_long32
+ *(.gcc_compiled_long32)
+
+.gcc_compiled_long64
+ *(.gcc_compiled_long64)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x3c
+ *(.comment)
+ .comment       0x00000000       0x3c build/default/production/_ext/2077795248/drv_spi_static.o
+                                 0x3d (size before relaxing)
+ .comment       0x00000000       0x3d build/default/production/_ext/639803181/sys_clk_static.o
+ .comment       0x00000000       0x3d build/default/production/_ext/822048611/sys_ports_static.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1688732426/system_init.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1688732426/system_interrupt.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1688732426/system_tasks.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1360937237/app.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1360937237/main.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1068317977/drv_i2s.o
+ .comment       0x00000000       0x3d build/default/production/_ext/172804285/drv_usb.o
+ .comment       0x00000000       0x3d build/default/production/_ext/172804285/drv_usb_device.o
+ .comment       0x00000000       0x3d build/default/production/_ext/35725571/sys_devcon.o
+ .comment       0x00000000       0x3d build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1707904131/sys_int_pic32.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1502646426/sys_ports.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1283518026/usb_device.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .comment       0x00000000       0x3d c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x718
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_aranges
+                0x00000038       0x20 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_aranges
+                0x00000058       0x20 build/default/production/_ext/1688732426/system_init.o
+ .debug_aranges
+                0x00000078       0x20 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_aranges
+                0x00000098       0x20 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_aranges
+                0x000000b8       0x40 build/default/production/_ext/1360937237/app.o
+ .debug_aranges
+                0x000000f8       0x20 build/default/production/_ext/1360937237/main.o
+ .debug_aranges
+                0x00000118       0x98 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_aranges
+                0x000001b0       0x70 build/default/production/_ext/172804285/drv_usb.o
+ .debug_aranges
+                0x00000220       0xb8 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_aranges
+                0x000002d8       0x78 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_aranges
+                0x00000350       0x20 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_aranges
+                0x00000370       0x38 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_aranges
+                0x000003a8       0xf8 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_aranges
+                0x000004a0      0x150 build/default/production/_ext/1283518026/usb_device.o
+ .debug_aranges
+                0x000005f0       0x50 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_aranges
+                0x00000640       0x38 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_aranges
+                0x00000678       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x00000698       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_aranges
+                0x000006b8       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x000006d8       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_aranges
+                0x000006f8       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_pubnames
+                0x00000000     0x17bd
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x20 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_pubnames
+                0x00000020       0xa0 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_pubnames
+                0x000000c0       0x2b build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_pubnames
+                0x000000eb      0x17f build/default/production/_ext/1688732426/system_init.o
+ .debug_pubnames
+                0x0000026a       0x3c build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_pubnames
+                0x000002a6       0x2e build/default/production/_ext/1688732426/system_tasks.o
+ .debug_pubnames
+                0x000002d4       0xda build/default/production/_ext/1360937237/app.o
+ .debug_pubnames
+                0x000003ae       0x1b build/default/production/_ext/1360937237/main.o
+ .debug_pubnames
+                0x000003c9      0x1f5 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_pubnames
+                0x000005be      0x130 build/default/production/_ext/172804285/drv_usb.o
+ .debug_pubnames
+                0x000006ee      0x2c1 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_pubnames
+                0x000009af      0x160 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_pubnames
+                0x00000b0f       0x33 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_pubnames
+                0x00000b42       0x7f build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_pubnames
+                0x00000bc1      0x376 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_pubnames
+                0x00000f37      0x546 build/default/production/_ext/1283518026/usb_device.o
+ .debug_pubnames
+                0x0000147d      0x146 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_pubnames
+                0x000015c3      0x12a build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_pubnames
+                0x000016ed       0x33 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x00001720       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_pubnames
+                0x00001740       0x24 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x00001764       0x31 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_pubnames
+                0x00001795       0x28 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_info     0x00000000    0x35128
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1551 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_info    0x00001551     0x20de build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_info    0x0000362f     0x2248 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_info    0x00005877     0x461a build/default/production/_ext/1688732426/system_init.o
+ .debug_info    0x00009e91     0x160b build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_info    0x0000b49c     0x15f9 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_info    0x0000ca95     0x3e3b build/default/production/_ext/1360937237/app.o
+ .debug_info    0x000108d0      0x14c build/default/production/_ext/1360937237/main.o
+ .debug_info    0x00010a1c     0x83e2 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_info    0x00018dfe     0x34e8 build/default/production/_ext/172804285/drv_usb.o
+ .debug_info    0x0001c2e6     0x5adf build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_info    0x00021dc5     0x1131 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_info    0x00022ef6      0x8e1 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_info    0x000237d7     0x1188 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_info    0x0002495f     0x3da5 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_info    0x00028704     0x50b0 build/default/production/_ext/1283518026/usb_device.o
+ .debug_info    0x0002d7b4     0x4247 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_info    0x000319fb     0x3317 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_info    0x00034d12       0xe2 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x00034df4       0xbc c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_info    0x00034eb0       0xc4 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x00034f74       0xde c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x00035052       0xd6 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_abbrev   0x00000000     0x2c45
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xd9 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_abbrev  0x000000d9      0x2a0 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_abbrev  0x00000379      0x146 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_abbrev  0x000004bf      0x2d1 build/default/production/_ext/1688732426/system_init.o
+ .debug_abbrev  0x00000790      0x101 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_abbrev  0x00000891      0x101 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_abbrev  0x00000992      0x287 build/default/production/_ext/1360937237/app.o
+ .debug_abbrev  0x00000c19       0x38 build/default/production/_ext/1360937237/main.o
+ .debug_abbrev  0x00000c51      0x440 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_abbrev  0x00001091      0x41e build/default/production/_ext/172804285/drv_usb.o
+ .debug_abbrev  0x000014af      0x402 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_abbrev  0x000018b1      0x2c1 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_abbrev  0x00001b72      0x190 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_abbrev  0x00001d02      0x1ac build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_abbrev  0x00001eae      0x23d build/default/production/_ext/1502646426/sys_ports.o
+ .debug_abbrev  0x000020eb      0x43e build/default/production/_ext/1283518026/usb_device.o
+ .debug_abbrev  0x00002529      0x31b build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_abbrev  0x00002844      0x348 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_abbrev  0x00002b8c       0x25 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x00002bb1       0x25 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x00002bd6       0x25 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00002bfb       0x25 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_abbrev  0x00002c20       0x25 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_line     0x00000000     0x724d
+ *(.debug_line)
+ .debug_line    0x00000000      0x121 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_line    0x00000121      0x3ec build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_line    0x0000050d      0x457 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_line    0x00000964      0x621 build/default/production/_ext/1688732426/system_init.o
+ .debug_line    0x00000f85      0x1f7 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_line    0x0000117c      0x1f1 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_line    0x0000136d      0x453 build/default/production/_ext/1360937237/app.o
+ .debug_line    0x000017c0       0x6d build/default/production/_ext/1360937237/main.o
+ .debug_line    0x0000182d     0x1909 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_line    0x00003136      0x811 build/default/production/_ext/172804285/drv_usb.o
+ .debug_line    0x00003947      0xe86 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_line    0x000047cd      0x5b0 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_line    0x00004d7d      0x34b build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_line    0x000050c8      0x326 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_line    0x000053ee      0x830 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_line    0x00005c1e      0x9b5 build/default/production/_ext/1283518026/usb_device.o
+ .debug_line    0x000065d3      0x560 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_line    0x00006b33      0x44c build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_line    0x00006f7f       0x97 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00007016       0x84 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_line    0x0000709a       0x88 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x00007122       0x95 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x000071b7       0x96 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_frame    0x00000000      0xdd4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x58 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_frame   0x00000058       0x20 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_frame   0x00000078       0x28 build/default/production/_ext/1688732426/system_init.o
+ .debug_frame   0x000000a0       0x54 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_frame   0x000000f4       0x28 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_frame   0x0000011c       0x80 build/default/production/_ext/1360937237/app.o
+ .debug_frame   0x0000019c       0x28 build/default/production/_ext/1360937237/main.o
+ .debug_frame   0x000001c4      0x130 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_frame   0x000002f4       0xdc build/default/production/_ext/172804285/drv_usb.o
+ .debug_frame   0x000003d0      0x1ac build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_frame   0x0000057c       0xd8 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_frame   0x00000654       0x20 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_frame   0x00000674       0x50 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_frame   0x000006c4      0x1d0 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_frame   0x00000894      0x360 build/default/production/_ext/1283518026/usb_device.o
+ .debug_frame   0x00000bf4       0xc4 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_frame   0x00000cb8       0x6c build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_frame   0x00000d24       0x28 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x00000d4c       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_frame   0x00000d6c       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_frame   0x00000d8c       0x28 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_frame   0x00000db4       0x20 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_str      0x00000000     0x1239
+ *(.debug_str)
+ .debug_str     0x00000000       0x91 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_str     0x00000091       0xd7 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_str     0x00000168       0x6a build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_str     0x000001d2      0x223 build/default/production/_ext/1688732426/system_init.o
+ .debug_str     0x000003f5       0x91 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_str     0x00000486       0x91 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_str     0x00000517      0x18d build/default/production/_ext/1360937237/app.o
+ .debug_str     0x000006a4        0x0 build/default/production/_ext/1360937237/main.o
+ .debug_str     0x000006a4      0x220 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_str     0x000008c4       0xcb build/default/production/_ext/172804285/drv_usb.o
+ .debug_str     0x0000098f      0x193 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_str     0x00000b22       0x2c build/default/production/_ext/35725571/sys_devcon.o
+ .debug_str     0x00000b4e       0x4f build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_str     0x00000b9d        0xd build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_str     0x00000baa       0xa1 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_str     0x00000c4b      0x2c1 build/default/production/_ext/1283518026/usb_device.o
+ .debug_str     0x00000f0c      0x1c5 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_str     0x000010d1      0x168 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_str     0x00001239        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_str     0x00001239        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_str     0x00001239        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_str     0x00001239        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_str     0x00001239        0x0 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.debug_loc      0x00000000     0xae66
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x13 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_loc     0x00000013       0x13 build/default/production/_ext/1688732426/system_init.o
+ .debug_loc     0x00000026      0x1ce build/default/production/_ext/1360937237/app.o
+ .debug_loc     0x000001f4     0x4ddc build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_loc     0x00004fd0      0x640 build/default/production/_ext/172804285/drv_usb.o
+ .debug_loc     0x00005610     0x269e build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_loc     0x00007cae      0x1df build/default/production/_ext/35725571/sys_devcon.o
+ .debug_loc     0x00007e8d      0x14e build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_loc     0x00007fdb       0x94 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_loc     0x0000806f      0xd28 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_loc     0x00008d97     0x1570 build/default/production/_ext/1283518026/usb_device.o
+ .debug_loc     0x0000a307      0x7d1 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_loc     0x0000aad8      0x38e build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+                0x00000000     0x2e64
+ *(.debug_pubtypes)
+ .debug_pubtypes
+                0x00000000       0x75 build/default/production/_ext/2077795248/drv_spi_static.o
+ .debug_pubtypes
+                0x00000075      0x161 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_pubtypes
+                0x000001d6      0x10b build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_pubtypes
+                0x000002e1      0x395 build/default/production/_ext/1688732426/system_init.o
+ .debug_pubtypes
+                0x00000676       0xab build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_pubtypes
+                0x00000721       0xab build/default/production/_ext/1688732426/system_tasks.o
+ .debug_pubtypes
+                0x000007cc      0x4cd build/default/production/_ext/1360937237/app.o
+ .debug_pubtypes
+                0x00000c99       0x12 build/default/production/_ext/1360937237/main.o
+ .debug_pubtypes
+                0x00000cab      0x4f2 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_pubtypes
+                0x0000119d      0x382 build/default/production/_ext/172804285/drv_usb.o
+ .debug_pubtypes
+                0x0000151f      0x38e build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_pubtypes
+                0x000018ad      0x136 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_pubtypes
+                0x000019e3       0x81 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_pubtypes
+                0x00001a64       0x93 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_pubtypes
+                0x00001af7      0x1de build/default/production/_ext/1502646426/sys_ports.o
+ .debug_pubtypes
+                0x00001cd5      0x533 build/default/production/_ext/1283518026/usb_device.o
+ .debug_pubtypes
+                0x00002208      0x6b8 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_pubtypes
+                0x000028c0      0x5a4 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+
+.debug_ranges   0x00000000     0x1398
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 build/default/production/_ext/639803181/sys_clk_static.o
+ .debug_ranges  0x00000028       0x10 build/default/production/_ext/822048611/sys_ports_static.o
+ .debug_ranges  0x00000038       0x10 build/default/production/_ext/1688732426/system_init.o
+ .debug_ranges  0x00000048       0x10 build/default/production/_ext/1688732426/system_interrupt.o
+ .debug_ranges  0x00000058       0x10 build/default/production/_ext/1688732426/system_tasks.o
+ .debug_ranges  0x00000068       0x30 build/default/production/_ext/1360937237/app.o
+ .debug_ranges  0x00000098       0x10 build/default/production/_ext/1360937237/main.o
+ .debug_ranges  0x000000a8      0xc70 build/default/production/_ext/1068317977/drv_i2s.o
+ .debug_ranges  0x00000d18       0x90 build/default/production/_ext/172804285/drv_usb.o
+ .debug_ranges  0x00000da8      0x1b0 build/default/production/_ext/172804285/drv_usb_device.o
+ .debug_ranges  0x00000f58       0xc8 build/default/production/_ext/35725571/sys_devcon.o
+ .debug_ranges  0x00001020       0x40 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .debug_ranges  0x00001060       0x58 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .debug_ranges  0x000010b8       0xe8 build/default/production/_ext/1502646426/sys_ports.o
+ .debug_ranges  0x000011a0      0x140 build/default/production/_ext/1283518026/usb_device.o
+ .debug_ranges  0x000012e0       0x40 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .debug_ranges  0x00001320       0x28 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .debug_ranges  0x00001348       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_ranges  0x00001358       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .debug_ranges  0x00001368       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .debug_ranges  0x00001378       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .debug_ranges  0x00001388       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ *(.gnu.attributes)
+ .gnu.attributes
+                0x00000000       0x10 build/default/production/_ext/2077795248/drv_spi_static.o
+ .gnu.attributes
+                0x00000010       0x10 build/default/production/_ext/639803181/sys_clk_static.o
+ .gnu.attributes
+                0x00000020       0x10 build/default/production/_ext/822048611/sys_ports_static.o
+ .gnu.attributes
+                0x00000030       0x10 build/default/production/_ext/1688732426/system_init.o
+ .gnu.attributes
+                0x00000040       0x10 build/default/production/_ext/1688732426/system_interrupt.o
+ .gnu.attributes
+                0x00000050       0x10 build/default/production/_ext/1688732426/system_tasks.o
+ .gnu.attributes
+                0x00000060       0x10 build/default/production/_ext/1360937237/app.o
+ .gnu.attributes
+                0x00000070       0x10 build/default/production/_ext/1360937237/main.o
+ .gnu.attributes
+                0x00000080       0x10 build/default/production/_ext/1068317977/drv_i2s.o
+ .gnu.attributes
+                0x00000090       0x10 build/default/production/_ext/172804285/drv_usb.o
+ .gnu.attributes
+                0x000000a0       0x10 build/default/production/_ext/172804285/drv_usb_device.o
+ .gnu.attributes
+                0x000000b0       0x10 build/default/production/_ext/35725571/sys_devcon.o
+ .gnu.attributes
+                0x000000c0       0x10 build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+ .gnu.attributes
+                0x000000d0       0x10 build/default/production/_ext/1707904131/sys_int_pic32.o
+ .gnu.attributes
+                0x000000e0       0x10 build/default/production/_ext/1502646426/sys_ports.o
+ .gnu.attributes
+                0x000000f0       0x10 build/default/production/_ext/1283518026/usb_device.o
+ .gnu.attributes
+                0x00000100       0x10 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+ .gnu.attributes
+                0x00000110       0x10 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+ .gnu.attributes
+                0x00000120       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+ .gnu.attributes
+                0x00000130       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+ .gnu.attributes
+                0x00000140       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+ .gnu.attributes
+                0x00000150       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+ .gnu.attributes
+                0x00000160       0x10 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/speed\libgcc.a
+START GROUP
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libdebug.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libm.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libe.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libdsp.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/speed\libgcc.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libc.a
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a
+END GROUP
+LOAD c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/speed\libgcc.a
+OUTPUT(dist/default/production/USB_audio.X.production.elf elf32-tradlittlemips)
+LOAD stack
+LOAD data_init
+
+.reginfo        0x00000000       0x18
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+
+.stack          0xa00006d8      0x400
+ .stack         0xa00006d8      0x400 stack
+
+.bss            0xa0000028       0xe8
+ .bss           0xa0000028       0xe8 build/default/production/_ext/1283518026/usb_device.o
+
+.data           0xa0000110       0x24
+ .data          0xa0000110       0x24 build/default/production/_ext/1360937237/app.o
+                0xa0000110                appData
+
+._debug_exception
+                0xbfc00480       0x2c
+ ._debug_exception
+                0xbfc00480       0x2c c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\debug-exception-return.o
+                0xbfc00480                __DbgExecReturn
+
+.text.DRV_I2S_Initialize
+                0x9d000780     0x10ac
+ .text.DRV_I2S_Initialize
+                0x9d000780     0x10ac build/default/production/_ext/1068317977/drv_i2s.o
+                0x9d000780                DRV_I2S_Initialize
+
+.text.DRV_I2S_Tasks
+                0x9d00182c      0xda8
+ .text.DRV_I2S_Tasks
+                0x9d00182c      0xda8 build/default/production/_ext/1068317977/drv_i2s.o
+                0x9d00182c                DRV_I2S_Tasks
+
+.text._DRV_USB_DEVICE_Tasks_ISR
+                0x9d0025d4      0x7f4
+ .text._DRV_USB_DEVICE_Tasks_ISR
+                0x9d0025d4      0x7f4 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d0025d4                _DRV_USB_DEVICE_Tasks_ISR
+
+.text._USB_DEVICE_AUDIO_SetupPacketHandler
+                0x9d002dc8      0x53c
+ .text._USB_DEVICE_AUDIO_SetupPacketHandler
+                0x9d002dc8      0x53c build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d002dc8                _USB_DEVICE_AUDIO_SetupPacketHandler
+
+.text._USB_DEVICE_AUDIO_Initialize
+                0x9d003304      0x31c
+ .text._USB_DEVICE_AUDIO_Initialize
+                0x9d003304      0x31c build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d003304                _USB_DEVICE_AUDIO_Initialize
+
+.text._USB_DEVICE_ControlTransferHandler
+                0x9d003620      0x30c
+ .text._USB_DEVICE_ControlTransferHandler
+                0x9d003620      0x30c build/default/production/_ext/1283518026/usb_device.o
+                0x9d003620                _USB_DEVICE_ControlTransferHandler
+
+.text.DRV_I2S_TasksError
+                0x9d00392c      0x2f0
+ .text.DRV_I2S_TasksError
+                0x9d00392c      0x2f0 build/default/production/_ext/1068317977/drv_i2s.o
+                0x9d00392c                DRV_I2S_TasksError
+
+.text._USB_DEVICE_ProcessStandardDeviceGetRequests
+                0x9d003c1c      0x2c4
+ .text._USB_DEVICE_ProcessStandardDeviceGetRequests
+                0x9d003c1c      0x2c4 build/default/production/_ext/1283518026/usb_device.o
+                0x9d003c1c                _USB_DEVICE_ProcessStandardDeviceGetRequests
+
+.text._USB_DEVICE_AUDIO_Transfer
+                0x9d003ee0      0x234
+ .text._USB_DEVICE_AUDIO_Transfer
+                0x9d003ee0      0x234 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0x9d003ee0                _USB_DEVICE_AUDIO_Transfer
+
+.text.DRV_USB_DEVICE_IRPSubmit
+                0x9d004114      0x1ec
+ .text.DRV_USB_DEVICE_IRPSubmit
+                0x9d004114      0x1ec build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d004114                DRV_USB_DEVICE_IRPSubmit
+
+.text._USB_DEVICE_ProcessStandardDeviceSetRequests
+                0x9d004300      0x1e0
+ .text._USB_DEVICE_ProcessStandardDeviceSetRequests
+                0x9d004300      0x1e0 build/default/production/_ext/1283518026/usb_device.o
+                0x9d004300                _USB_DEVICE_ProcessStandardDeviceSetRequests
+
+.text._USB_DEVICE_EventHandler
+                0x9d0044e0      0x1dc
+ .text._USB_DEVICE_EventHandler
+                0x9d0044e0      0x1dc build/default/production/_ext/1283518026/usb_device.o
+                0x9d0044e0                _USB_DEVICE_EventHandler
+
+.text.APP_Tasks
+                0x9d0046bc      0x1d4
+ .text.APP_Tasks
+                0x9d0046bc      0x1d4 build/default/production/_ext/1360937237/app.o
+                0x9d0046bc                APP_Tasks
+
+.rodata         0x9d004890      0x1cc
+ .rodata        0x9d004890      0x1cc build/default/production/_ext/1688732426/system_init.o
+                0x9d004890                audioInit0
+                0x9d004898                funcRegistrationTable
+                0x9d0048ac                fullSpeedDeviceDescriptor
+                0x9d0048c0                fullSpeedConfigurationDescriptor
+                0x9d004930                sd000
+                0x9d004934                sd001
+                0x9d004968                sd002
+                0x9d0049a0                usbConfigurationDescriptors
+                0x9d0049a4                usbStringDescriptors
+                0x9d0049b0                fullSpeedConfigDescSet
+                0x9d0049b4                usbMasterDescriptor
+                0x9d0049e0                usbDevInitData
+                0x9d004a0c                drvI2S0InitData
+                0x9d004a58                sysDevconInit
+
+.text.APP_USBDeviceAudioEventHandler
+                0x9d004a5c      0x1cc
+ .text.APP_USBDeviceAudioEventHandler
+                0x9d004a5c      0x1cc build/default/production/_ext/1360937237/app.o
+                0x9d004a5c                APP_USBDeviceAudioEventHandler
+
+.text.DRV_USB_DEVICE_EndpointEnable
+                0x9d004c28      0x1bc
+ .text.DRV_USB_DEVICE_EndpointEnable
+                0x9d004c28      0x1bc build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d004c28                DRV_USB_DEVICE_EndpointEnable
+
+.text.USB_DEVICE_Initialize
+                0x9d004de4      0x1b4
+ .text.USB_DEVICE_Initialize
+                0x9d004de4      0x1b4 build/default/production/_ext/1283518026/usb_device.o
+                0x9d004de4                USB_DEVICE_Initialize
+
+.text.DRV_USB_Initialize
+                0x9d004f98      0x1b0
+ .text.DRV_USB_Initialize
+                0x9d004f98      0x1b0 build/default/production/_ext/172804285/drv_usb.o
+                0x9d004f98                DRV_USB_Initialize
+
+.text.USB_DEVICE_Tasks
+                0x9d005148      0x1b0
+ .text.USB_DEVICE_Tasks
+                0x9d005148      0x1b0 build/default/production/_ext/1283518026/usb_device.o
+                0x9d005148                USB_DEVICE_Tasks
+
+.text.DRV_USB_DEVICE_EndpointStall
+                0x9d0052f8      0x190
+ .text.DRV_USB_DEVICE_EndpointStall
+                0x9d0052f8      0x190 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d0052f8                DRV_USB_DEVICE_EndpointStall
+
+.text.DRV_USB_DEVICE_EndpointDisable
+                0x9d005488      0x18c
+ .text.DRV_USB_DEVICE_EndpointDisable
+                0x9d005488      0x18c build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d005488                DRV_USB_DEVICE_EndpointDisable
+
+.text._USB_DEVICE_AUDIO_IRPCancelAll
+                0x9d005614      0x184
+ .text._USB_DEVICE_AUDIO_IRPCancelAll
+                0x9d005614      0x184 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d005614                _USB_DEVICE_AUDIO_IRPCancelAll
+
+.text.DRV_I2S_BufferAddWrite
+                0x9d005798      0x174
+ .text.DRV_I2S_BufferAddWrite
+                0x9d005798      0x174 build/default/production/_ext/1068317977/drv_i2s.o
+                0x9d005798                DRV_I2S_BufferAddWrite
+
+.text._USB_DEVICE_Ep0ReceiveCompleteCallback
+                0x9d00590c      0x16c
+ .text._USB_DEVICE_Ep0ReceiveCompleteCallback
+                0x9d00590c      0x16c build/default/production/_ext/1283518026/usb_device.o
+                0x9d00590c                _USB_DEVICE_Ep0ReceiveCompleteCallback
+
+.text           0x9d005a78      0x168
+ .text          0x9d005a78      0x168 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(memcpy.o)
+                0x9d005a78                memcpy
+
+.text.DRV_I2S_Open
+                0x9d005be0      0x138
+ .text.DRV_I2S_Open
+                0x9d005be0      0x138 build/default/production/_ext/1068317977/drv_i2s.o
+                0x9d005be0                DRV_I2S_Open
+
+.text._IntHandlerUSBInstance0
+                0x9d005d18      0x130
+ .text._IntHandlerUSBInstance0
+                0x9d005d18      0x130 build/default/production/_ext/1688732426/system_interrupt.o
+                0x9d005d18                _IntHandlerUSBInstance0
+
+.text.DRV_USB_DEVICE_IRPCancelAll
+                0x9d005e48      0x11c
+ .text.DRV_USB_DEVICE_IRPCancelAll
+                0x9d005e48      0x11c build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d005e48                DRV_USB_DEVICE_IRPCancelAll
+
+.text._USB_DEVICE_AUDIO_TransferIRPCallBack
+                0x9d005f64      0x10c
+ .text._USB_DEVICE_AUDIO_TransferIRPCallBack
+                0x9d005f64      0x10c build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d005f64                _USB_DEVICE_AUDIO_TransferIRPCallBack
+
+.text._USB_DEVICE_ConfigureDevice
+                0x9d006070      0x104
+ .text._USB_DEVICE_ConfigureDevice
+                0x9d006070      0x104 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006070                _USB_DEVICE_ConfigureDevice
+
+.text._USB_DEVICE_ForwardControlXfrToFunction
+                0x9d006174       0xf0
+ .text._USB_DEVICE_ForwardControlXfrToFunction
+                0x9d006174       0xf0 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006174                _USB_DEVICE_ForwardControlXfrToFunction
+
+.text._USB_DEVICE_ProcessStandardEndpointRequest
+                0x9d006264       0xe8
+ .text._USB_DEVICE_ProcessStandardEndpointRequest
+                0x9d006264       0xe8 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006264                _USB_DEVICE_ProcessStandardEndpointRequest
+
+.text.SYS_PORTS_Initialize
+                0x9d00634c       0xdc
+ .text.SYS_PORTS_Initialize
+                0x9d00634c       0xdc build/default/production/_ext/822048611/sys_ports_static.o
+                0x9d00634c                SYS_PORTS_Initialize
+
+.text.general_exception
+                0x9d006428       0xdc
+ .text.general_exception
+                0x9d006428       0xdc c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(general-exception.o)
+                0x9d006428                _general_exception_context
+
+.text._DRV_USB_DEVICE_EndpointBDTEntryArm
+                0x9d006504       0xd8
+ .text._DRV_USB_DEVICE_EndpointBDTEntryArm
+                0x9d006504       0xd8 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d006504                _DRV_USB_DEVICE_EndpointBDTEntryArm
+
+.text.SYS_Initialize
+                0x9d0065dc       0xc0
+ .text.SYS_Initialize
+                0x9d0065dc       0xc0 build/default/production/_ext/1688732426/system_init.o
+                0x9d0065dc                SYS_Initialize
+
+.text.DRV_USB_DEVICE_EndpointStallClear
+                0x9d00669c       0xbc
+ .text.DRV_USB_DEVICE_EndpointStallClear
+                0x9d00669c       0xbc build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d00669c                DRV_USB_DEVICE_EndpointStallClear
+
+.text._USB_DEVICE_AUDIO_ControlTransferHandler
+                0x9d006758       0xb8
+ .text._USB_DEVICE_AUDIO_ControlTransferHandler
+                0x9d006758       0xb8 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d006758                _USB_DEVICE_AUDIO_ControlTransferHandler
+
+.text.DRV_USB_Tasks_ISR
+                0x9d006810       0xac
+ .text.DRV_USB_Tasks_ISR
+                0x9d006810       0xac build/default/production/_ext/172804285/drv_usb.o
+                0x9d006810                DRV_USB_Tasks_ISR
+
+.text._USB_DEVICE_DeInitializeAllFunctionDrivers
+                0x9d0068bc       0xa8
+ .text._USB_DEVICE_DeInitializeAllFunctionDrivers
+                0x9d0068bc       0xa8 build/default/production/_ext/1283518026/usb_device.o
+                0x9d0068bc                _USB_DEVICE_DeInitializeAllFunctionDrivers
+
+.text.APP_USBDeviceEventHandler
+                0x9d006964       0xa0
+ .text.APP_USBDeviceEventHandler
+                0x9d006964       0xa0 build/default/production/_ext/1360937237/app.o
+                0x9d006964                APP_USBDeviceEventHandler
+
+.dinit          0x9d006a04       0xa0
+ .dinit         0x9d006a04       0xa0 data_init
+
+.text._USB_DEVICE_GetFunctionDriverEntryByInterface
+                0x9d006aa4       0x88
+ .text._USB_DEVICE_GetFunctionDriverEntryByInterface
+                0x9d006aa4       0x88 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006aa4                _USB_DEVICE_GetFunctionDriverEntryByInterface
+
+.text.DRV_USB_DEVICE_Attach
+                0x9d006b2c       0x84
+ .text.DRV_USB_DEVICE_Attach
+                0x9d006b2c       0x84 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d006b2c                DRV_USB_DEVICE_Attach
+
+.text.USB_DEVICE_ControlSend
+                0x9d006bb0       0x84
+ .text.USB_DEVICE_ControlSend
+                0x9d006bb0       0x84 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006bb0                USB_DEVICE_ControlSend
+
+.text._USB_DEVICE_FindEndpoint
+                0x9d006c34       0x84
+ .text._USB_DEVICE_FindEndpoint
+                0x9d006c34       0x84 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006c34                _USB_DEVICE_FindEndpoint
+
+.text.USB_DEVICE_ControlStatus
+                0x9d006cb8       0x80
+ .text.USB_DEVICE_ControlStatus
+                0x9d006cb8       0x80 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006cb8                USB_DEVICE_ControlStatus
+
+.text.DRV_USB_ClientEventCallBackSet
+                0x9d006d38       0x78
+ .text.DRV_USB_ClientEventCallBackSet
+                0x9d006d38       0x78 build/default/production/_ext/172804285/drv_usb.o
+                0x9d006d38                DRV_USB_ClientEventCallBackSet
+
+.text._USB_DEVICE_Ep0TransmitCompleteCallback
+                0x9d006db0       0x78
+ .text._USB_DEVICE_Ep0TransmitCompleteCallback
+                0x9d006db0       0x78 build/default/production/_ext/1283518026/usb_device.o
+                0x9d006db0                _USB_DEVICE_Ep0TransmitCompleteCallback
+
+.text.SYS_DEVCON_SystemUnlock
+                0x9d006e28       0x74
+ .text.SYS_DEVCON_SystemUnlock
+                0x9d006e28       0x74 build/default/production/_ext/35725571/sys_devcon.o
+                0x9d006e28                SYS_DEVCON_SystemUnlock
+
+.text.DRV_USB_DEVICE_Detach
+                0x9d006e9c       0x70
+ .text.DRV_USB_DEVICE_Detach
+                0x9d006e9c       0x70 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d006e9c                DRV_USB_DEVICE_Detach
+
+.text.SYS_CLK_Initialize
+                0x9d006f0c       0x6c
+ .text.SYS_CLK_Initialize
+                0x9d006f0c       0x6c build/default/production/_ext/639803181/sys_clk_static.o
+                0x9d006f0c                SYS_CLK_Initialize
+
+.text.SYS_DEVCON_PerformanceConfig
+                0x9d006f78       0x6c
+ .text.SYS_DEVCON_PerformanceConfig
+                0x9d006f78       0x6c build/default/production/_ext/35725571/sys_devcon_pic32mx.o
+                0x9d006f78                SYS_DEVCON_PerformanceConfig
+
+.text.USB_DEVICE_Tasks_ISR
+                0x9d006fe4       0x6c
+ .text.USB_DEVICE_Tasks_ISR
+                0x9d006fe4       0x6c build/default/production/_ext/1283518026/usb_device.o
+                0x9d006fe4                USB_DEVICE_Tasks_ISR
+
+.text._DRV_USB_DEVICE_IRPQueueFlush
+                0x9d007050       0x68
+ .text._DRV_USB_DEVICE_IRPQueueFlush
+                0x9d007050       0x68 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d007050                _DRV_USB_DEVICE_IRPQueueFlush
+
+.text.USB_DEVICE_AUDIO_Read
+                0x9d0070b8       0x64
+ .text.USB_DEVICE_AUDIO_Read
+                0x9d0070b8       0x64 build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0x9d0070b8                USB_DEVICE_AUDIO_Read
+
+.text.DRV_USB_Open
+                0x9d00711c       0x5c
+ .text.DRV_USB_Open
+                0x9d00711c       0x5c build/default/production/_ext/172804285/drv_usb.o
+                0x9d00711c                DRV_USB_Open
+
+.text.USB_DEVICE_Open
+                0x9d007178       0x58
+ .text.USB_DEVICE_Open
+                0x9d007178       0x58 build/default/production/_ext/1283518026/usb_device.o
+                0x9d007178                USB_DEVICE_Open
+
+.text.SYS_DEVCON_SystemLock
+                0x9d0071d0       0x54
+ .text.SYS_DEVCON_SystemLock
+                0x9d0071d0       0x54 build/default/production/_ext/35725571/sys_devcon.o
+                0x9d0071d0                SYS_DEVCON_SystemLock
+
+.text.USB_DEVICE_EventHandlerSet
+                0x9d007224       0x54
+ .text.USB_DEVICE_EventHandlerSet
+                0x9d007224       0x54 build/default/production/_ext/1283518026/usb_device.o
+                0x9d007224                USB_DEVICE_EventHandlerSet
+
+.text.main_entry
+                0x9d007278       0x4c
+ .text.main_entry
+                0x9d007278       0x4c c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/./proc/32MX220F032B/crt0_mips32r2.o
+                0x9d0072a4                __crt0_exit
+
+.text.SYS_Tasks
+                0x9d0072c4       0x4c
+ .text.SYS_Tasks
+                0x9d0072c4       0x4c build/default/production/_ext/1688732426/system_tasks.o
+                0x9d0072c4                SYS_Tasks
+
+.text._bootstrap_exception_handler
+                0x9d007310       0x48
+ .text._bootstrap_exception_handler
+                0x9d007310       0x48 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-bootstrap-exception-handler.o)
+                0x9d007310                _bootstrap_exception_handler
+
+.text._general_exception_handler
+                0x9d007358       0x48
+ .text._general_exception_handler
+                0x9d007358       0x48 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-general-exception-handler.o)
+                0x9d007358                _general_exception_handler
+
+.text.DRV_USB_DEVICE_EndpointIsStalled
+                0x9d0073a0       0x44
+ .text.DRV_USB_DEVICE_EndpointIsStalled
+                0x9d0073a0       0x44 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d0073a0                DRV_USB_DEVICE_EndpointIsStalled
+
+.text           0x9d0073e4       0x44
+ .text          0x9d0073e4       0x44 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\pic32_software_reset.o
+                0x9d0073e4                __pic32_software_reset
+
+.text.SYS_INT_SourceDisable
+                0x9d007428       0x40
+ .text.SYS_INT_SourceDisable
+                0x9d007428       0x40 build/default/production/_ext/1707904131/sys_int_pic32.o
+                0x9d007428                SYS_INT_SourceDisable
+
+.text.USB_DEVICE_ControlReceive
+                0x9d007468       0x40
+ .text.USB_DEVICE_ControlReceive
+                0x9d007468       0x40 build/default/production/_ext/1283518026/usb_device.o
+                0x9d007468                USB_DEVICE_ControlReceive
+
+.text._DRV_USB_DEVICE_Initialize
+                0x9d0074a8       0x3c
+ .text._DRV_USB_DEVICE_Initialize
+                0x9d0074a8       0x3c build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d0074a8                _DRV_USB_DEVICE_Initialize
+
+.text.USB_DEVICE_AUDIO_EventHandlerSet
+                0x9d0074e4       0x3c
+ .text.USB_DEVICE_AUDIO_EventHandlerSet
+                0x9d0074e4       0x3c build/default/production/_ext/1283518026/usb_device_audio_read_write.o
+                0x9d0074e4                USB_DEVICE_AUDIO_EventHandlerSet
+
+.text.DRV_USB_DEVICE_AddressSet
+                0x9d007520       0x38
+ .text.DRV_USB_DEVICE_AddressSet
+                0x9d007520       0x38 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d007520                DRV_USB_DEVICE_AddressSet
+
+.text.SYS_PORTS_PinToggle
+                0x9d007558       0x38
+ .text.SYS_PORTS_PinToggle
+                0x9d007558       0x38 build/default/production/_ext/1502646426/sys_ports.o
+                0x9d007558                SYS_PORTS_PinToggle
+
+.text.SYS_PORTS_PinClear
+                0x9d007590       0x38
+ .text.SYS_PORTS_PinClear
+                0x9d007590       0x38 build/default/production/_ext/1502646426/sys_ports.o
+                0x9d007590                SYS_PORTS_PinClear
+
+.vector_default
+                0x9d0075c8       0x38
+ .vector_default
+                0x9d0075c8       0x38 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(defaultinterrupt.o)
+                0x9d0075c8                _DefaultInterrupt
+
+.text.APP_InitCodec
+                0x9d007600       0x24
+ .text.APP_InitCodec
+                0x9d007600       0x24 build/default/production/_ext/1360937237/app.o
+                0x9d007600                APP_InitCodec
+
+.text._USB_DEVICE_AUDIO_Deinitialize
+                0x9d007624       0x24
+ .text._USB_DEVICE_AUDIO_Deinitialize
+                0x9d007624       0x24 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d007624                _USB_DEVICE_AUDIO_Deinitialize
+
+.text.main      0x9d007648       0x20
+ .text.main     0x9d007648       0x20 build/default/production/_ext/1360937237/main.o
+                0x9d007648                main
+
+.text.SYS_DEVCON_JTAGDisable
+                0x9d007668       0x1c
+ .text.SYS_DEVCON_JTAGDisable
+                0x9d007668       0x1c build/default/production/_ext/35725571/sys_devcon.o
+                0x9d007668                SYS_DEVCON_JTAGDisable
+
+.text._USB_DEVICE_AUDIO_GlobalInitialize
+                0x9d007684       0x1c
+ .text._USB_DEVICE_AUDIO_GlobalInitialize
+                0x9d007684       0x1c build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d007684                _USB_DEVICE_AUDIO_GlobalInitialize
+
+.text           0x9d0076a0       0x18
+ .text          0x9d0076a0       0x18 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-nmi-handler.o)
+                0x9d0076a0                _nmi_handler
+
+.text.SYS_DEVCON_Initialize
+                0x9d0076b8       0x14
+ .text.SYS_DEVCON_Initialize
+                0x9d0076b8       0x14 build/default/production/_ext/35725571/sys_devcon.o
+                0x9d0076b8                SYS_DEVCON_Initialize
+
+.text.SYS_INT_Initialize
+                0x9d0076cc       0x14
+ .text.SYS_INT_Initialize
+                0x9d0076cc       0x14 build/default/production/_ext/1707904131/sys_int_pic32.o
+                0x9d0076cc                SYS_INT_Initialize
+
+.rodata         0x9d0076e0       0x14
+ .rodata        0x9d0076e0       0x14 build/default/production/_ext/1283518026/usb_device_audio_v1_0.o
+                0x9d0076e0                audioFunctionDriver
+
+.text.DRV_USB_DEVICE_CurrentSpeedGet
+                0x9d0076f4       0x10
+ .text.DRV_USB_DEVICE_CurrentSpeedGet
+                0x9d0076f4       0x10 build/default/production/_ext/172804285/drv_usb_device.o
+                0x9d0076f4                DRV_USB_DEVICE_CurrentSpeedGet
+
+.text.SYS_CLK_SystemFrequencyGet
+                0x9d007704        0xc
+ .text.SYS_CLK_SystemFrequencyGet
+                0x9d007704        0xc build/default/production/_ext/639803181/sys_clk_static.o
+                0x9d007704                SYS_CLK_SystemFrequencyGet
+
+.text.APP_Initialize
+                0x9d007710        0xc
+ .text.APP_Initialize
+                0x9d007710        0xc build/default/production/_ext/1360937237/app.o
+                0x9d007710                APP_Initialize
+
+.text.DRV_USB_Tasks
+                0x9d00771c        0x8
+ .text.DRV_USB_Tasks
+                0x9d00771c        0x8 build/default/production/_ext/172804285/drv_usb.o
+                0x9d00771c                DRV_USB_Tasks
+
+.text.SYS_DEVCON_Tasks
+                0x9d007724        0x8
+ .text.SYS_DEVCON_Tasks
+                0x9d007724        0x8 build/default/production/_ext/35725571/sys_devcon.o
+                0x9d007724                SYS_DEVCON_Tasks
+
+.text._on_reset
+                0x9d00772c        0x8
+ .text._on_reset
+                0x9d00772c        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-reset.o)
+                0x9d00772c                _on_reset
+
+.text._on_bootstrap
+                0x9d007734        0x8
+ .text._on_bootstrap
+                0x9d007734        0x8 c:/program files (x86)/microchip/xc32/v1.34/bin/bin/../../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/speed\libpic32.a(default-on-bootstrap.o)
+                0x9d007734                _on_bootstrap
